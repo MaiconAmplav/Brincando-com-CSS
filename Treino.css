@@ -1,0 +1,20 @@
+body {
+    font-family: Raleway;
+    
+}
+.caixas {
+    display: flex;
+    justify-content: space-between;
+}
+.demo {
+    border-radius: 50%;
+    background-color: gray;
+    width: 120px;
+    height: 120px;
+}
+input {
+    border-bottom: black 10px;
+    border-right: black 10px;
+    height: 15px;
+    width: 100px;
+}
